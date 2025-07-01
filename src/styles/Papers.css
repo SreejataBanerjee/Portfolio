@@ -1,0 +1,50 @@
+.papers-section {
+    padding: 80px 10%;
+    background: #1d2b46; 
+    text-align: center;
+  }
+  
+  .papers-section h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    color: aliceblue;
+  }
+  
+  .papers-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .paper-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: left;
+  }
+  
+  .paper-card h3 {
+    font-size: 20px;
+    color: navy;
+  }
+  
+  .paper-card p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .paper-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: teal;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .paper-card a:hover {
+    text-decoration: underline;
+  }
+  

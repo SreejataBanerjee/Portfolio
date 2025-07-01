@@ -1,0 +1,43 @@
+.experience-section {
+    padding: 80px 10%;
+    background: #1d2b46; 
+  }
+  
+  .experience-section h2 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: aliceblue;
+  }
+  
+  .experience-timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .experience-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  .experience-content h3 {
+    font-size: 20px;
+    color: navy;
+  }
+  
+  .experience-content h4 {
+    font-size: 16px;
+    color: #00796b;
+    margin-top: 5px;
+  }
+  
+  .experience-duration {
+    font-size: 14px;
+    color: gray;
+    margin: 5px 0;
+  }
+  
