@@ -26,7 +26,7 @@ This is my personal portfolio website built using **React.js**, showcasing my pr
 ## 🚀 Deployment
 
 This portfolio is deployed using **GitHub Pages**.  
-Live link: [https://SreejataBanerjee.github.io/Portfolio.git](https://SreejataBanerjee.github.io/Portfolio.git)
+Live link: [https://SreejataBanerjee.github.io/Portfolio](https://SreejataBanerjee.github.io/Portfolio)
 
 To deploy locally or update:
 ```bash
