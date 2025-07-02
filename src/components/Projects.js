@@ -60,7 +60,8 @@ const Projects = () => {
       <div className="projects-grid">
         {projects.map((project, index) => (
           <div key={index} className="project-card">
-            <img src={`/images/${project.image}`} alt={project.title} />
+            <img src={`${process.env.PUBLIC_URL}/images/${project.image}`} alt={project.title} />
+
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <div className="tech-stack">
